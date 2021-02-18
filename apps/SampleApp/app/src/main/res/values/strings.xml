@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">FaceTec SDK</string>
+    <string name="enroll_simple">Enroll User</string>
+    <string name="auth_simple">Authenticate User</string>
+    <string name="liveness_check">3D Liveness Check</string>
+    <string name="identity_check">Photo ID Match</string>
+    <string name="session_review">View Session Result</string>
+    <string name="design_showcase">Design Showcase</string>
+
+    <string name="srs_header">FaceTec\u00AE Demo Session Result</string>
+    <string name="srs_mode_title">Mode: </string>
+    <string name="srs_session_status_title">Session Status: </string>
+    <string name="srs_liveness_result_title">3D Liveness Result: </string>
+    <string name="srs_2d_match_level_title">3D:2D Photo Match Result: </string>
+    <string name="srs_3d_match_level_title">3D Match Level: </string>
+    <string name="srs_3d_age_estimate_title">3D Age Estimate: </string>
+    <string name="srs_digital_spoof_status_title">Physical ID Doc. Check: </string>
+    <string name="srs_full_id_status_title">ID Fully Visible: </string>
+    <string name="srs_audit_trail_title">Audit Trail Image: </string>
+    <string name="srs_idscan_title">Photo ID: </string>
+    <string name="srs_facescan_size_title">3D FaceScan Size: </string>
+    <string name="srs_idscan_size_title">ID Scan Size: </string>
+    <string name="srs_view_dashboard_usage_button_title">View Details in Dev Dashboard</string>
+    <string name="srs_email_dashboard_link_button_title">Email Link to Dev Dashboard</string>
+    <string name="srs_back_to_main_menu_button_title">Back to Main Menu</string>
+    <string name="srs_debug_enrollment_id_title">Debug Enrollment ID: </string>
+    <string name="srs_debug_session_id_title">Debug Session ID: </string>
+
+    <string name="transition_loading_text">Network Connection Slow…</string>
+</resources>
